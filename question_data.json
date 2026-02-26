@@ -1,13 +1,28 @@
 {
   "QuestionData": {
     "one": {
-      
+      "title": "",
+      "questionText": "",
+      "correctAnswer": "",
+      "answers": {
+        
+      },
     },
     "two": {
-      
+      "title": "",
+      "questionText": "",
+      "correctAnswer": "",
+      "answers": {
+        
+      },
     },
     "three": {
-      
+      "title": "",
+      "questionText": "",
+      "correctAnswer": "",
+      "answers": {
+        
+      }
     }
   }
 }
